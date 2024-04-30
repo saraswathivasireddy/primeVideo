@@ -1,0 +1,20 @@
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.arrow {
+  color: #ffffff;
+  height: 35px;
+  width: 35px;
+}
+
+.each-category-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.each-slider{
+  display:flex;
+}
